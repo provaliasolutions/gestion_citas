@@ -1,0 +1,9 @@
+const firebaseConfig = {
+		  apiKey: "AIzaSyAstnTL-hKDTdghCcsmQ6oBV17b-DU8Bus",
+		  authDomain: "gestioncitas-ac58e.firebaseapp.com",
+		  projectId: "gestioncitas-ac58e",
+		  storageBucket: "gestioncitas-ac58e.appspot.com",
+		  messagingSenderId: "50904744334",
+		  appId: "1:50904744334:web:91e6fc26930488193b64df",
+		  measurementId: "G-T2LCG5923R"
+		};
